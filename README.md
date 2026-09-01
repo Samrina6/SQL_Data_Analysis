@@ -1,19 +1,14 @@
 # SQL Data Analysis
 
 ## Overview
-This project demonstrates SQL-based data analysis on an e-commerce dataset using MySQL. It includes data querying, aggregation, table joins, subqueries, views, indexing, and query optimization techniques.
+This project demonstrates SQL-based data analysis on an e-commerce dataset using MySQL. It includes data querying, aggregation, joins, subqueries, views, indexing, and query optimization techniques.
 
 ## Tools Used
 - MySQL Command Line Client
 - Visual Studio Code
 - GitHub
 
-## Dataset
-- customers.csv
-- orders.csv
-- order_items.csv
-
-## SQL Features Demonstrated
+## SQL Concepts Demonstrated
 - SELECT
 - WHERE
 - ORDER BY
@@ -33,11 +28,7 @@ This project demonstrates SQL-based data analysis on an e-commerce dataset using
 SQL_Data_Analysis/
 │
 ├── ecommerce_analysis.sql
-├── Dataset/
-│   ├── customers.csv
-│   ├── orders.csv
-│   └── order_items.csv
-│
+├── README.md
 └── Screenshots/
     ├── 01_GROUP_BY_COUNT.png
     ├── 02_SUM_SALES_BY_STATE.png
@@ -63,4 +54,4 @@ SQL_Data_Analysis/
 - Analyzed query execution using EXPLAIN.
 
 ## Outcome
-Successfully analyzed structured e-commerce data using SQL and demonstrated fundamental data analysis techniques and query optimization in MySQL.
+Successfully analyzed structured e-commerce data using SQL and demonstrated fundamental data analysis and query optimization techniques using MySQL.
