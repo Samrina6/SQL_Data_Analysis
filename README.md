@@ -55,3 +55,6 @@ SQL_Data_Analysis/
 
 ## Outcome
 Successfully analyzed structured e-commerce data using SQL and demonstrated fundamental data analysis and query optimization techniques using MySQL.
+
+##  Author
+**Samrina**
